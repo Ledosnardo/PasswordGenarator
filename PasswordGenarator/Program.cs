@@ -10,7 +10,7 @@ namespace PasswordGenarator
     {
         static void Main(string[] args)
         {
-            int qtd = 10;
+            int qtd = 5;
 
             StringBuilder s = new NumbersRandom().Randons(qtd);
 
